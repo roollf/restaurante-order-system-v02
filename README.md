@@ -1,20 +1,34 @@
 # University Activity
 
-## Sistema de Pedidos em Restaurante 🍴
+## Sistema de Pedidos em Restaurante com Padrões GoF e GRASP 🍴
 
-O sistema consiste em um mínimo de 8 classes, incluindo classes abstratas e a classe principal. Além disso, foram implementadas interfaces para permitir interações flexíveis entre diferentes classes. A herança desempenha um papel significativo, facilitando a reutilização de código e a criação de relações hierárquicas entre as classes. O polimorfismo é aplicado para tratar objetos de diferentes classes de forma uniforme, simplificando operações como a realização de pedidos.
+Esse projeto é uma evolução do [projeto anterior](https://github.com/roollf/restaurante-order-system), incorporando princípios de design avançados, como os padrões GoF (Gang of Four) e GRASP (General Responsibility Assignment Software Patterns). Esses padrões foram implementados para melhorar a arquitetura do sistema, tornando-o mais flexível, escalável e fácil de manter.
 
-Para a entrada e saída de dados, o sistema utiliza arquivos para armazenar informações cruciais, como o cardápio e o histórico de pedidos, garantindo a persistência dos dados entre as execuções. Composição e agregação são empregadas para representar as relações entre objetos, como a composição de um pedido com itens do cardápio. O encapsulamento é rigorosamente aplicado para proteger os atributos das classes, garantindo acesso controlado por meio de métodos ***getters*** e ***setters***. Mecanismos de tratamento de exceções são implementados para lidar com erros e situações inesperadas, assegurando a estabilidade do sistema. A estrutura de dados ***ArrayList*** é utilizada para armazenar informações dinâmicas, como a lista de pedidos em andamento, oferecendo flexibilidade no gerenciamento desses dados.
+O projeto agora inclui uma maior abstração e separação de responsabilidades, resultando em uma estrutura mais organizada e coesa. Várias classes foram redesenhadas e reorganizadas para refletir os princípios de design, oferecendo um código mais limpo e legível.
 
-## Funcionalidades ⚙️
+## Padrões de Design Implementados 🏗️
 
-- `Realização de Pedidos` Os clientes podem fazer pedidos, selecionando itens do cardápio, especificando quantidades e adicionando observações personalizadas.
+### 1. Controller
+O padrão Controller foi aplicado para separar a lógica de negócios da interface do usuário. Agora, o sistema possui um controlador central que gerencia todas as interações dos clientes e controla a execução de pedidos.
 
-- `Cálculo de Valor Total do Pedido.Pedido` O sistema calcula automaticamente o valor total do pedido com base nos itens selecionados.
+### 2. Builder
+O padrão Builder é utilizado na criação de pedidos, permitindo a construção passo a passo de pedidos complexos. Os clientes podem adicionar itens do cardápio e especificar quantidades.
 
-- `Geração de Nota Fiscal` Após a conclusão de um pedido, uma nota fiscal é gerada em formato de arquivo para registro.
+### 3. Singleton
+A implementação do padrão Singleton garante que apenas uma instância do sistema esteja em execução, garantindo que os dados do cardápio e o histórico de pedidos sejam compartilhados de maneira consistente entre as classes.
 
-- `Histórico de Pedidos` Mantém um histórico de todos os pedidos realizados, permitindo a consulta de pedidos anteriores.
+### 4. Constructor
+O padrão Constructor é aplicado para criar objetos complexos, facilitando a construção de pedidos e notas fiscais de maneira estruturada e eficiente.
+
+## Funcionalidades Aprimoradas ⚙️
+
+- `Realização de Pedidos` Os clientes podem fazer pedidos de forma mais intuitiva, criando pedidos personalizados com a ajuda do padrão Builder.
+
+- `Cálculo de Valor Total do Pedido` O sistema continua a calcular automaticamente o valor total do pedido com base nos itens selecionados, agora de forma mais estruturada.
+
+- `Geração de Nota Fiscal` A geração de notas fiscais foi otimizada com o uso do padrão Constructor, resultando em notas fiscais mais detalhadas e personalizadas.
+
+- `Histórico de Pedidos` O histórico de pedidos é mantido de forma mais organizada e acessível, facilitando a consulta de pedidos anteriores.
 
 ## Tecnologias 🛠
 
@@ -24,3 +38,5 @@ Para a entrada e saída de dados, o sistema utiliza arquivos para armazenar info
 
 - [Rolf Matela](https://github.com/roollf).
 - [Karoline Trevizani](https://github.com/KarolTrevizani).
+- Dóris Reck.
+- [Fernando Custódio](https://github.com/Fcsla).
