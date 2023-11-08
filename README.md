@@ -34,6 +34,8 @@ O padrão Constructor é aplicado para criar objetos complexos, facilitando a co
 
 - Java.
 
+## Equipe 🎓
+
 - [Rolf Matela](https://github.com/roollf).
 - [Karoline Trevizani](https://github.com/KarolTrevizani).
 - Dóris Reck.
