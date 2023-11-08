@@ -1,0 +1,7 @@
+Rolf Matela 85987903971 Rua Barão de Studart, 615 [Moqueca de Peixe 50.0, Fanta Laranja 8.0] 58.0
+José Matela 85986578864 Rua Costa Barros, 401 [Tiramisu 30.0] 30.0
+Karol 65348729 gadiuaydka [Moqueca de Peixe 50.0] 50.0
+Rolf 85987903971 Rua X, 798, Bairro Maraponga [Pizza de Pepperoni 40.0, Laranja 10.0, Tiramisu 30.0] 80.0
+Lucas 85986577665 Rua Y, 143, Bairro Jangurussu [Coca-Cola 4.0] 4.0
+Pedro Cantal 85988963345  [Bife à Parmegiana 42.0, Heineken 12.0, Sorvete de Chocolate Belga 26.0] 80.0
+Rolf 859723712321 Rua X [Pizza de Pepperoni 40.0, Fanta Uva 8.0, Bolo de Chocolate 12.0] 60.0

@@ -1,0 +1,13 @@
+1&Spaghetti alla Carbonara&Esse prato é feito com espaguete cozido ao dente, misturado com um molho cremoso à base de ovos, queijo parmesão, pancetta ou bacon e pimenta preta moída.&45.00
+1&Bife à Parmegiana&Consiste em um bife de carne bovina empanado e frito, coberto com molho de tomate, queijo derretido e, às vezes, presunto. É servido geralmente com arroz branco e batatas fritas.&42.00
+1&Moqueca de Peixe&A moqueca de peixe é um ensopado preparado com peixe fresco, tomate, cebola, pimentão, leite de coco, azeite de dendê e temperos regionais. É servida com arroz branco e pirão.&50.00
+2&Laranja&Suco de Laranja.&10.00
+2&Fanta Laranja&Refrigerante de Laranja.&8.00
+2&Heineken&Cerveja Heineken.&12.00
+3&Tiramisu&O tiramisu é feito com camadas de biscoitos de champanhe embebidos em café e creme de mascarpone adoçado, polvilhado com cacau em pó. É um doce delicado, cremoso e cheio de sabor, perfeito para os amantes de café.&30.00
+3&Sorvete de Chocolate Belga&feito com chocolate belga de alta qualidade. Tem uma textura cremosa e um sabor intenso de chocolate, sendo uma opção irresistível para os amantes de sobremesas geladas.&26.00
+3&Pudim de Leite Condensado&o pudim de leite condensado é um doce suave e cremoso, feito com leite condensado, leite, ovos e caramelo. É cozido no forno em banho-maria e servido gelado, proporcionando uma experiência deliciosa e reconfortante.&28.00
+1&Pizza de Pepperoni&Pizza elaborada com massa padrão ao molho de tomate e pepperoni.&40.0
+2&Coca-Cola&Refrigerante de Cola.&4.0
+3&Bolo de Chocolate&Pedaço de bolo fofo com sabor e calda de chocolate levemente amargo.&12.0
+2&Fanta Uva&Refrigerante de sabor Uva.&8.0
