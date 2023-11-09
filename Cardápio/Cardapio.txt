@@ -11,3 +11,8 @@
 2&Coca-Cola&Refrigerante de Cola.&4.0
 3&Bolo de Chocolate&Pedaço de bolo fofo com sabor e calda de chocolate levemente amargo.&12.0
 2&Fanta Uva&Refrigerante de sabor Uva.&8.0
+3&Pamonha&Feito de milho&5.0
+3&Paçoquinha&Doce de Amendoim&3.0
+3&Docinho&Doce&2.0
+3&Bolo de Laranja&Feito de laranja&6.0
+3&Bruaca&Doce&3.0
