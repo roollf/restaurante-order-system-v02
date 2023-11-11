@@ -16,3 +16,8 @@
 3&Docinho&Doce&2.0
 3&Bolo de Laranja&Feito de laranja&6.0
 3&Bruaca&Doce&3.0
+3&Beijinho&Docinho de coco&6.0
+3&Bolo de Cenoura&Feito de cenoura&15.0
+3&Cocada &Doce&4.0
+1&Peixada Cearense&Prato feito de peixe&79.0
+2&Cerveja Colorado&IPA&7.9
