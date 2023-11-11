@@ -5,3 +5,8 @@ Rolf 85987903971 Rua X, 798, Bairro Maraponga [Pizza de Pepperoni 40.0, Laranja 
 Lucas 85986577665 Rua Y, 143, Bairro Jangurussu [Coca-Cola 4.0] 4.0
 Pedro Cantal 85988963345  [Bife à Parmegiana 42.0, Heineken 12.0, Sorvete de Chocolate Belga 26.0] 80.0
 Rolf 859723712321 Rua X [Pizza de Pepperoni 40.0, Fanta Uva 8.0, Bolo de Chocolate 12.0] 60.0
+Karoline Holanda 85992515005 Av. Santos Dumont [Spaghetti alla Carbonara 45.0, Laranja 10.0, Tiramisu 30.0] 85.0
+Irene Matos 8593125679 Rua da Alegria [Bife à Parmegiana 42.0, Heineken 12.0, Docinho 2.0] 56.0
+Maria Lia 8598752341 Rua da Felicidade [Pizza de Pepperoni 40.0, Coca-Cola 4.0, Bolo de Chocolate 12.0] 56.0
+Karen Souza 8598651232 Rua do Carinho [Peixada Cearense 79.0, Heineken 12.0, Cocada  4.0] 95.0
+Linhares Lima 85987651231 Rua da Amizade [Peixada Cearense 79.0, Cerveja Colorado 7.9, Beijinho 6.0] 92.9

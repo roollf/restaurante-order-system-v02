@@ -19,7 +19,7 @@ public class CriarItemGUI extends JFrame {
     public CriarItemGUI() {
         // Setting up the frame
         setTitle("Adicionar Item do Cardápio");
-        setSize(600, 400);
+        setSize( 400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());
 
