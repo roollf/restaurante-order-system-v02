@@ -1,4 +1,4 @@
-package Cardapio;
+package Model.Cardapio;
 
 public class PratoPrincipal extends ItemMenu {
     public PratoPrincipal() {

@@ -1,4 +1,4 @@
-package Cardapio;
+package Model.Cardapio;
 
 public class Sobremesa extends ItemMenu {
     public Sobremesa() {

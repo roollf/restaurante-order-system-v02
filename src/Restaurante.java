@@ -1,7 +1,7 @@
-import Cardapio.*;
-import Views.CriarItemGUI;
-import Views.MainGUI;
-import Views.RestauranteGUI;
+import Model.Cardapio.Cardapio;
+import Model.Cardapio.CardapioLoader;
+import View.MainGUI;
+
 import javax.swing.*;
 import java.util.ArrayList;
 

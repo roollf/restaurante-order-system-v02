@@ -1,4 +1,4 @@
-package Cardapio;
+package Model.Cardapio;
 
 public interface Cardapio {
     public void mostrarInfo();

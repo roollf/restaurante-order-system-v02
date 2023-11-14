@@ -1,4 +1,4 @@
-package Pedido;
+package Model.Pedido;
 
 public class Cliente {
     private String nomeCliente;

@@ -1,6 +1,6 @@
-package Cardapio.CriarItem;
+package Controller;
 
-import Cardapio.ItemMenu;
+import Model.Cardapio.ItemMenu;
 
 public class ItemDoCardapio extends ItemMenu {
     private int tipo;

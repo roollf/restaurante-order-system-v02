@@ -1,6 +1,7 @@
-package Pedido;
+package Model.Pedido;
 
-import Cardapio.ItemMenu;
+import Model.Cardapio.ItemMenu;
+
 import java.util.ArrayList;
 
 public class Pedido {

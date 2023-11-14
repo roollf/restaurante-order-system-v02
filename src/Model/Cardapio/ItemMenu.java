@@ -1,4 +1,4 @@
-package Cardapio;
+package Model.Cardapio;
 
 public abstract class ItemMenu implements Cardapio {
     private String nome;

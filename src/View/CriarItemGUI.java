@@ -1,4 +1,4 @@
-package Views;
+package View;
 import Controller.CriarItem;
 import Controller.ItemDoCardapio;
 

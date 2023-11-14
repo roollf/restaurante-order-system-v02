@@ -1,4 +1,4 @@
-package Cardapio;
+package Model.Cardapio;
 
 import java.io.File;
 import java.io.FileNotFoundException;
