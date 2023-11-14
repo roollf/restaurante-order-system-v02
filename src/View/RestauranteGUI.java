@@ -4,8 +4,10 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
-import Cardapio.*;
-import Pedido.*;
+
+import Model.Cardapio.*;
+import Model.Pedido.PedidoManager;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

@@ -4,7 +4,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
-import Cardapio.*;
+
+import Model.Cardapio.Cardapio;
 
 public class MainGUI extends JFrame {
     private JButton createItemButton;

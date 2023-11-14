@@ -1,6 +1,6 @@
 package Views;
-import Cardapio.CriarItem.CriarItem;
-import Cardapio.CriarItem.ItemDoCardapio;
+import Controller.CriarItem;
+import Controller.ItemDoCardapio;
 
 import javax.swing.*;
 import java.awt.*;
